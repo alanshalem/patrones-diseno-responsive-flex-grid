@@ -1,1 +1,1 @@
-# patrones-dise-o-responsive-flex-grid
+# patrones-diseno-responsive-flex-grid
