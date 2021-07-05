@@ -38,4 +38,12 @@ h1 {
     text-transform: uppercase;
 }
 
-/** CODIGO AQUI **/
+/** CODIGO PARA TRES COLUMNAS IGUALES GRID **/
+@media (min-width:768px){
+    .tres-columnas{
+        display:grid;
+        grid-template-columns: repeat(3, 1fr);
+        /* grid-template-columns: 33.3% 33.3% 33.3%; */
+        column-gap: 2rem;
+    }
+}
