@@ -1,1 +1,7 @@
 # patrones-diseno-responsive-flex-grid
+# PATRONES DE DISEÑO RESPONSIVE (FLEXBOX - GRID)
+_PATRONES DE DISEÑO RESPONSIVE (FLEXBOX - GRID) - STACK: HTML5 - CSS3_
+
+## PREVIEW 🚀
+
+![PATRONES DE DISEÑO RESPONSIVE (FLEXBOX - GRID)](https://i.imgur.com/3UplkgR.png)
